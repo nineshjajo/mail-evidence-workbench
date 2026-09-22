@@ -1,0 +1,9 @@
+From: notification@example.test
+To: reviewer@example.test
+Subject: Security alert - verify your account
+Date: Mon, 21 Sep 2026 09:00:00 +0000
+Authentication-Results: example.test; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/plain; charset=utf-8
+
+This is a synthetic message for the public demo.
+Verify your account now at https://portal.example.test/account.
